@@ -1,7 +1,7 @@
 # LLM Security Benchmark
 
 ## Overview
-This project benchmarks LLM robustness against prompt injection attacks.
+This project benchmarks the robustness of Large Language Models (LLMs) against prompt injection attacks using a simplified experimental setup.
 
 ## Features
 - Dataset of adversarial prompts
@@ -19,7 +19,7 @@ Each prompt is tested against a model simulation:
 - Attack Success Rate (ASR)
 
 ## Output
-Results are stored in `results.csv`.
+Results are stored in `results.csv` for further analysis.
 
 ## Future Work
 - Expand dataset to 100+ cases
